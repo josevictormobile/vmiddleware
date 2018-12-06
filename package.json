@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Midwewe de integraçãode sistemas",
   "main": "server.js",
+  "engines": {
+    "node": "10.14.1",
+    "npm": "6.4"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
